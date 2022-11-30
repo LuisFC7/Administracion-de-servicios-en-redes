@@ -1,0 +1,11 @@
+Id || Producto || Precio || Descripción || Stock || Imagen
+1||Chocolate Amargo Turin Bite Size||499.9||Presentación tubo de 350gr||10||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_1.jpg
+2||Galletas Oreo Cubiertas con Chocolate Blanco||117.6||Caja de 332.8gr||5||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_2.jpg
+3||Crunch Chocolate con leche||375.0||24 piezas de 40gr||7||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_3.jpg
+4||Sabritas Papas Ruffles sabor queso||48.0||Bolsa de 185gr||8||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_4.jpg
+5||Paqui 2020||769.0||One Chip Challenge 2 oz||3||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_5.jpg
+6||Boing Boing Jugo sabor Guayaba||20.0||Jugo sabor guayaba 1 lt||12||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_6.jpg
+7||De la Rosa Mazapán||109.55||30 piezas de 28gr||10||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_7.jpg
+8||Chocolates Conejos Turín||219.0||Tubo con 30 piezas, 20g cada conejo. 600g||5||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_8.jpg
+9||Santa Clara Leche Sabor Helado de Chocolate.||225.26||27 Pack 180 ml cada uno.||8||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_9.jpg
+10||Gold Fritz||161.0||Cacahuate Salado - 950 g||7||C:\Users\Lenovo\Documents\Semestre 23-1\Redes\Practicas\Practica 1\BD\Imagenes\Prod_10.jpg
